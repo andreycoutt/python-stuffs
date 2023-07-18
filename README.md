@@ -1,3 +1,3 @@
 # python-stuffs
 
-Python Stuffs
+Python Stuffs. 🐍
