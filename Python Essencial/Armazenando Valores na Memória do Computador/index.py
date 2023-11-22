@@ -13,3 +13,5 @@ valor1 = 10;
 nome_1 = "teste";
 
 #print = "valor qualquer";
+
+nome_completo = "nome - sobrenome";
