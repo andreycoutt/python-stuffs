@@ -15,3 +15,4 @@ nome_1 = "teste";
 #print = "valor qualquer";
 
 nome_completo = "nome - sobrenome";
+n1 = "fulano de tal";
