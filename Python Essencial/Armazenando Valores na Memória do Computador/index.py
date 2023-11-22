@@ -9,3 +9,5 @@ print(f"{nome} tem {idade} anos.");
 
 preco = 10;
 _estoque = 5;
+valor1 = 10;
+nome_1 = "teste";
