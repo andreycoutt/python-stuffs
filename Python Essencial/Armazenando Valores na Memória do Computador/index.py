@@ -12,4 +12,4 @@ _estoque = 5;
 valor1 = 10;
 nome_1 = "teste";
 
-print = "valor qualquer";
+#print = "valor qualquer";
